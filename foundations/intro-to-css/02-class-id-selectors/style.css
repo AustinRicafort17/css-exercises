@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.earth {
+    background-color: #f5315b;
+    font-family: verdana, 'DejaVu Sans', sans-serif ;
+}
+.earth.mars{
+    font-size: 24px;
+}
+#moon {
+    color: #312bed;
+    font-size: 36px;
+}
+#sun {
+    background-color: #94ed58;
+    font-size: 24px;
+    font-weight: bold;
+}
