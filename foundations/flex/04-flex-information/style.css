@@ -8,10 +8,23 @@ img {
 }
 
 .title {
+  text-align: center;
   font-size: 36px;
   font-weight: 900;
+  margin-top: 10px;
+  margin-bottom: 32px;
 }
-
+.plants{
+  display: flex ;
+  justify-content: space-around;
+  
+}
+.plant-type{
+  width: 200px;
+  text-align: center;
+  margin-left: 52px;
+  margin-right: 52px;
+}
 /* do not edit this footer */
 .footer {
   position: fixed;
